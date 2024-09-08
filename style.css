@@ -1,0 +1,28 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.container {
+  border: 2px solid rgb(240, 231, 231);
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+  /* background-color: cadetblue; */
+  padding: 20px;
+}
+/* h2 {
+  font-size: large;
+} */
+p {
+  color: darkgray;
+  text-indent: 10px;
+}
+p::first-line {
+  padding-left: 10px;
+}
+img {
+  border-radius: 10px;
+}
